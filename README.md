@@ -54,6 +54,6 @@ CUDA_VISIBLE_DEVICES=$cuda python train_mpi.py \
     --batch_size 1 #--debugging #--resume
 ```
 After optimization, we render novel views:
+<img src="ckpts/Exp-syndney/MPI_rendered_views.gif" width="30%" >
 
-https://github.com/TrickyGo/SinMPI/assets/25994745/7cafd9a4-d68f-4ff3-87f1-5be81cb278b3
 
