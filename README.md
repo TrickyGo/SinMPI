@@ -1,4 +1,6 @@
-### Welcome to the Pytorch implementation of paper "SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images" (SIGGRAPH Asia 2023).
+### Welcome to SinMPI! 
+
+["SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images" (SIGGRAPH Asia 2023)](https://arxiv.org/abs/2312.11037).
 
 ## Quick demo
 
@@ -6,7 +8,7 @@
 
 (1) Create a new conda environment specified in requirements.txt.
 
-(2) Download pretrained weights of depth-aware inpainter [ecweights](https://drive.google.com/drive/folders/1FZZ6laPuqEMSfrGvEWYaDZWEPaHvGm6r) and put them in to 'warpback/ecweights/xxx.pth'.
+(2) Download pretrained weights of depth-aware inpainter [ecweights](https://drive.google.com/drive/folders/1FZZ6laPuqEMSfrGvEWYaDZWEPaHvGm6r) and put them into 'warpback/ecweights/xxx.pth'.
 
 ### 2. Run demo
 ```
